@@ -1,0 +1,20 @@
+Hang Yu& Blue Bowen Group
+#LSP management system #
+Client: A director who wishes to remain anonymous
+Requirements:
+1. You can query the name, date of birth, gender, social background and SP level of all LSPs
+2. You can find out the frequented locations of LSP, including area, building number, floor and room number
+3. You can query the activity records of LSP, including location, time, duration of stay and activity content
+4. The interview records of LSP can be searched out, including LSP name, director name, interview date, duration, and mental activities of LSP after the interview
+
+
+
+cn version:
+Hang Yu&蓝博文组
+#LSP管理系统#
+客户：一位不愿透露姓名的主任
+需求：
+    1. 可以查询出所有LSP的姓名，生日，性别，社会背景，SP等级
+    2. 可以查询出LSP经常出没的位置，包括区域，楼号，楼层，房间号
+    3. 可以查询出LSP的活动记录，包括位置，时段，逗留时常，活动内容
+    4. 可以查询出LSP被约谈记录，包括LSP姓名，主任姓名，约谈日期，时长，约谈结束后LSP心里活动
