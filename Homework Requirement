@@ -1,0 +1,43 @@
+
+
+### 			Computer Science Principle 2020 Assignment 5 Database Design
+
+Goal:
+
+    1.	To be able to abstract data models from simple user cases and design into a database schema using the 3 steps strategy taught in class.
+    2.	To consolidate the skill of SQL statements writing.
+    3.	To encourage collaboration between teammembers.
+
+Requirements:
+
+​    In this assignment you are about to design database models based on your customer's demands:
+
+1. Draw E-R diagrams that clearly show the entities and relationships needed to build your data model.
+2. Implement your logical data model design with SQL statement which is to create the schema and all the tables contained in your design. NOTE: Every table needs a primary key
+
+3. Use MySQL as your DBMS to verify your SQL implementation, and insert at 10 records to each table.  
+
+4. Write out all the query statements listed by your customer
+
+
+Specification:
+
+You can only work in team on this assignment .
+
+To facilitate your teamwork, using git will be a mandatory part for this assignment. Balance the workload between you and your peer and one of you will have to commit and push your initial work to gitee, and from there, your team will continue to contribute till the work done.
+
+Submissions：
+
+   The url pointing to your gitee repository which should contain the following:
+
+1. a .txt file explain how did you get the idea of the concept model from your customer's demand
+2. a .png file contains your E-R diagram drawing
+3. a .sql file exported from your MySQL DBMS
+4. a. txt file contains all the query statements listed in your customer's demand
+
+
+
+Due date: 
+
+Jan 27, 2021 by noon
+
