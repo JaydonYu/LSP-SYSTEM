@@ -19,12 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="947a3652-25f4-459a-aa7b-42088f254070" name="Default Changelist" comment="Creat the file!">
-      <change afterPath="$PROJECT_DIR$/2D0624F89848BCF3E9040BD1572EA8E2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LSP_SYSTEM.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LSP管理系统.rtf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/query.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework Requirement" beforeDir="false" afterPath="$PROJECT_DIR$/Homework Requirement" afterDir="false" />
+    <list default="true" id="947a3652-25f4-459a-aa7b-42088f254070" name="Default Changelist" comment="1，2 蓝博文&#10;3，4  于航">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LSP_SYSTEM.sql" beforeDir="false" afterPath="$PROJECT_DIR$/LSP_SYSTEM.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +52,14 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -70,7 +75,9 @@
       <workItem from="1611367100159" duration="3791000" />
       <workItem from="1611405152462" duration="265000" />
       <workItem from="1611448640561" duration="4900000" />
-      <workItem from="1611715839414" duration="3502000" />
+      <workItem from="1611715839414" duration="3644000" />
+      <workItem from="1611720757543" duration="18000" />
+      <workItem from="1611720788851" duration="77000" />
     </task>
     <task id="LOCAL-00001" summary="Creat the file!">
       <created>1611062128461</created>
@@ -79,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611062128461</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1，2 蓝博文&#10;3，4  于航">
+      <created>1611720687908</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611720687908</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +114,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Creat the file!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creat the file!" />
+    <MESSAGE value="1，2 蓝博文&#10;3，4  于航" />
+    <option name="LAST_COMMIT_MESSAGE" value="1，2 蓝博文&#10;3，4  于航" />
   </component>
 </project>

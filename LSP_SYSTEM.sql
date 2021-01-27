@@ -1,4 +1,4 @@
-drop table if exists LSP System;
+drop table if exists LSPSystem;
 
 
 create table LSP
@@ -8,7 +8,7 @@ create table LSP
    Birthdate            date                           null,  
    SEX                  char(1)                        null,
    Social_background    varchar(64)                    null,
-   LEVEL。                 int                         null,
+   LEVEL               int                         null,
    
 );
 
@@ -32,7 +32,7 @@ create table Black_dens
 (
    ID                   int                            not null,
    RegionBuildingRoom   varchar(64)                    null,
-   Duration             varchar（64）                   null，
+   Duration             varchar(64)                   null,
    Activity               varchar(255)                 null,
    
 );
