@@ -1,0 +1,4 @@
+select NAME,Birth,SEX,Social_background,LEVEL from LSP as 姓名，生日，性别，社会背景，SP等级 from LSP order by LEVEL
+select Rrgion, count(*) as 出没区域 from Black_dens group by 出现地点 order by count(*)desc
+select Activity,TimeInterval, Region_buidling_room, Duration as 活动，时段，地点，时长 from Black_dens group by 活动
+select LSP_NAME,Doc,TreatmentDate,Duration,Mental_action as lsp名字，主任，时间，时长，心里 group by lsp名字 
